@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="P1">Barcelona és la capital de Catalunya.</string>
+    <string name="P2">El Sevilla ha guanyat la copa Catalunya.</string>
+    <string name="P3">Madrid és la capital de Espanya</string>
+    <string name="P4">Pau Gasol es de Sant Boi.</string>
+    <string name="P5">El Betis va perdre al Bernabeu al temps de descompte.</string>
+    <string name="cert">Cert</string>
+    <string name="fals">Fals</string>
+    <string name="ptext">Puntuació:</string>
+    <string name="ultim">Has acabat les preguntes del joc</string>
+    <string name="pista1">Pista: Barcelona és una ciutat de Catalunya.</string>
+    <string name="pista2">Pista: És un equip Andalús.</string>
+    <string name="pista3">Pista: De les ciutats més grans del país Esapanyol.</string>
+    <string name="pista4">Pista: Jugador català.</string>
+    <string name="pista5">Pista: Fent servir un esperit de sobreposar-se a les adversitats.</string>
+    <string name="mPista">PISTA</string>
+    <string name="mAtras">ENRERE</string>
+    <string name="afirmatiu">SI</string>
+    <string name="negatiu">NO</string>
+    <string name="vigila">Estas segur de veure la pista? Prem a sobre el text</string>
+    <string name="valoracio">Valora de 0 a 5 punts que et sembla aquesta aplicació siusplau.</string>
+</resources>
